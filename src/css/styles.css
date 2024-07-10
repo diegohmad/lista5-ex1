@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'rawline', sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    color: #0C326F;
+    font-size: 25px;
+}
+
+p {
+    color: #555555;
+    font-size: 16px;
+}
